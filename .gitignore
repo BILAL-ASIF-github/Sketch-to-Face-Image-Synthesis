@@ -1,0 +1,51 @@
+# Data & Checkpoints
+data/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+env/
+venv/
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & outputs
+*.log
+wandb/
+runs/
+mlruns/
+lightning_logs/
+
+# Large files
+*.zip
+*.tar.gz
+*.h5
+*.hdf5
