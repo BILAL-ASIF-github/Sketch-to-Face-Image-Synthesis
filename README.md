@@ -1,7 +1,7 @@
 # Sketch-to-Face Image Synthesis
 
 **Course:** AI335L Deep Learning Lab  
-**Team:** Moazzam Sharif (S2024CS009) · Bilal Asif (S2024CS005) · Muaz Ahmed (S2024CS016)  
+**Team:** Moazzam Sharif (S2024CS009) · Bilal Asif (S2024CS005) · Muaz Ahmad (S2024CS016)  
 **Model:** pix2pix / pSp (pixel2style2pixel)  
 **Dataset:** CelebA
 
