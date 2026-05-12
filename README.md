@@ -105,3 +105,4 @@ pytest tests/ -v
 |-------|---------|
 | Phase 1 (Roadmap) | `phase1-submission` |
 | Phase 2 (EDA + Baseline) | `phase2-submission` |
+| Phase 3 (PSP + CNN Training) | `phase3-submission` |
