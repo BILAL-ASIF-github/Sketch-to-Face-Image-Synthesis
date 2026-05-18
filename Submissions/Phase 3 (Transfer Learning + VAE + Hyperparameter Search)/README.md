@@ -20,19 +20,6 @@ Phase 4 introduces three major upgrades over Phase 3:
 3. **Hyperparameter Optimisation** — Bayesian search (Optuna TPE) over 6 key hyperparameters
 
 **Result:** 25.4% improvement in validation L1 over Phase 3 (0.4764 → 0.3556)
-
----
-
-## 👥 Authors
-
-| Name | Role |
-|---|---|
-| Moazzam Sharif |
-| Bilal Asif |
-| Muaz Ahmad |
-
-**Course:** AI335L — Deep Learning Lab
-
 ---
 
 ## 📊 Results Summary
