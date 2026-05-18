@@ -27,9 +27,9 @@ Phase 4 introduces three major upgrades over Phase 3:
 
 | Name | Role |
 |---|---|
-| Moazzam Sharif | — |
-| Bilal Asif | — |
-| Muaz Ahmad | — |
+| Moazzam Sharif |
+| Bilal Asif |
+| Muaz Ahmad |
 
 **Course:** AI335L — Deep Learning Lab
 
