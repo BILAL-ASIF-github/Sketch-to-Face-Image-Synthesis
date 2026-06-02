@@ -108,3 +108,4 @@ pytest tests/ -v
 | Phase 3 (PSP + CNN Training) | `phase3-submission` |
 | Phase 4 (Transfer Learning + VAE + Hyperparameter Search) | `phase4-submission` |
 | Phase 5 (Evaluation) | `phase5-submission` |
+| Phase 6 (Deployment) | `phase6-submission` |
